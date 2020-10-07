@@ -145,7 +145,6 @@
         android:gravity="center_horizontal"
         android:padding="10dp"
         android:shadowColor="#FFFFFF"
-        android:text="TextView"
         android:textColor="#121111"
         android:textSize="20sp"
         android:textStyle="bold"
